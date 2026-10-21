@@ -1,0 +1,14 @@
+{
+  "proyecto": {
+    "nombre": "Biblioteca Compensar",
+    "descripcion": "Sistema de gestión y consulta para la biblioteca institucional.",
+    "version": "1.0.0"
+  },
+  "integrantes": [
+    { "nombre": "Johana", "rol": "Líder", "github": "JohanaS77" },
+    { "nombre": "Andrés Quintero", "rol": "Backend", "github": "And1119" },
+    { "nombre": "Zoe Gabriel", "rol": "Frontend", "github": "s3rvebrkz0e" },
+    { "nombre": "Cristian Alexander", "rol": "Tester", "github": "Cristian-V9" },
+    { "nombre": "Michael Duvan", "rol": "Documentador", "github": "Michael-Gomez-1996" }
+  ]
+}
