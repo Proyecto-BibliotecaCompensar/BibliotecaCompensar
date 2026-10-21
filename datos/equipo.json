@@ -6,6 +6,9 @@
   },
   "integrantes": [
     { "nombre": "Johana", "rol": "Líder", "github": "JohanaS77" },
-    { "nombre": "Andrés Quintero", "rol": "Backend", "github": "And119" }
+    { "nombre": "Andrés Quintero", "rol": "Backend", "github": "And119" },
+    { "nombre": "Zoe Gabriel", "rol": "Frontend", "github": "zoebalagay" },
+    { "nombre": "Cristian Alexander", "rol": "Tester", "github": "Cristian-V9" },
+    { "nombre": "Michael Duvan", "rol": "Documentador", "github": "micha7128" }
   ]
 }
